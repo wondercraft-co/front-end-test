@@ -1,4 +1,8 @@
 Hi dear developer,
+
+First of all, thank you **VERY much** for taking the time to do this test. We value your time and appreciate you for spending that precious resource on this.
+
+### Introduction
 The goal of this task is to test your Front-End skills in an agency type of project.
 
 One of the most important things when working in these types of projects is that **you can *read* and follow instructions precisely.** So make sure you read this document thoroughly.
