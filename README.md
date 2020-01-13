@@ -20,7 +20,7 @@ There are 5 sections/modules on the homepage, and each has some specific instruc
 
 **1 .The header:** Pretty standard not much to explain here.
 
-**2 .The hero:** You know how important it is to optimize images to load smaller assets depending on the device. So there is an essential requirement for the hero; the image has to be responsive (hint: srcset)
+**2 .The hero:** You know how important it is to optimize images to load smaller assets depending on the device. So there is an essential requirement for the hero; the image has to be responsive (hint: srcset + object-fit)
 
 **3. The product grid:** No lets get interesting. For this section, you need to fetch the products data from this endpoint via ajax. 
 https://api.jsonbin.io/b/5e1aa891b236b871b3605dd6 
