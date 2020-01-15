@@ -26,12 +26,12 @@ There are 5 sections/modules on the homepage, and each has some specific instruc
 **2 .The hero:** You know how important it is to optimize images to load smaller assets depending on the device. So there is an essential requirement for the hero; the image has to be responsive (hint: srcset + object-fit)
 
 **3. The product grid:** No lets get interesting. For this section, you need to fetch the products data from this endpoint via ajax. 
-https://api.jsonbin.io/b/5e1aa891b236b871b3605dd6 
+https://api.jsonbin.io/b/5e1aa891b236b871b3605dd6/1
 
-* You can use only vanilla JS or jQuery for this task. Please do not use React, Vue, or Angular; it's too easy.
+* You can use only vanilla JS or jQuery for this task. Please do not use React, Vue, or Angular; it's too easy with those tools.
 * You need to order the list alphabetically by name.
 * Use this section to shine. If you want to add some entry animations, go ahead. If you want to add a loading state, please do.
-* As you will see in the JSON, the price is in cents: 12350 is equal $12.35
+* As you will see in the JSON, the price is in cents: so 1235 would equal $12.35
 
 **4. The newsletter sign-up:** Not much to explain here; make sure it works on mobile too.
 
